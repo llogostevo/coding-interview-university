@@ -103,7 +103,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
-    - [Arrays](#arrays)
+    - [Arrays](#arrays) 
     - [Linked Lists](#linked-lists)
     - [Stack](#stack)
     - [Queue](#queue)
@@ -580,7 +580,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 ## Data Structures
 
 - ### Arrays
-    - [ ] About Arrays:
+    - [x] About Arrays:
     	- [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
         - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
